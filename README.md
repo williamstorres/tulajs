@@ -1,3 +1,3 @@
 # TulaJs
 
-A new FrontEnd super framework chupalo seba
+A new FrontEnd Framework chupalo seba
